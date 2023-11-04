@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="https://exibees.com/icon/fav.png">
+  <script src="Exibees_files/twk-main.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/twk-vendor.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/twk-runtime.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/twk-app.js" charset="UTF-8" crossorigin="*"></script>
+  <script async src="Exibees_files/1gikldmr6.js" charset="UTF-8" crossorigin="*"></script>
+  <script src="Exibees_files/jquery.js"></script>
+  <link rel="stylesheet" href="Exibees_files/font-awesome.min.css">
+  <link href="Exibees_files/css2.css" rel="stylesheet">
+  <link rel="stylesheet" href="Exibees_files/owl.carousel.css">
+  <link rel="stylesheet" href="Exibees_files/bootstrap.css">
+  <link rel="stylesheet" href="Exibees_files/style.css">
+  <title>Exibees</title>
+</head>
+<body>
+  <div class="header">
+    <div class="head_top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <ul>
+              <li><a href="tel:+12172152384"><span><i class="fa fa-phone"></i></span>+1 (217) 215 2384</a></li>
+              <li><a href="mailto:info@exibees.com"><span><i class="fa fa-envelope"></i></span>info@exibees.com</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="head_bot">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="logo">
+              <a href="https://exibees.com"><img src="Exibees_files/logo.png" alt="Exibees" title="Exibees"></a>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-9 col-xs-12">
+            <!-- Your navigation menu can go here -->
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+            <div class="head_right">
+              <a href="javascript:void(Tawk_API.toggle())" class="main_btn">Live Chat<span></span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Rest of your content goes here -->
+</body>
+</html>
